@@ -7,6 +7,7 @@ Customized pie chart with ChartJS library, which is a powerful open-source JavaS
 # Usage
 To use this application, simply clone the repository and open the index.html file in your web browser. The pie chart will be automatically generated using the data provided in the JavaScript file chart.js. You may modify the script.js file to display your own data or customize the chart as per your requirements. To change the data, simply change the labels, values, and currency variables.
 
+# Example
 ![Alt text](examples/example.png?raw=true "Example")
 
 # Contributing
